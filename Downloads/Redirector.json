@@ -1,0 +1,110 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2021-10-21T01:15:48.943Z",
+    "redirects": [
+        {
+            "description": "youtube videos",
+            "exampleUrl": "https://www.youtube.com/channel/UCDsMKIpr1ZHXHpACszKpRUw",
+            "exampleResult": "https://www.youtube.com/channel/UCDsMKIpr1ZHXHpACszKpRUw/videos",
+            "error": null,
+            "includePattern": "^(https://www.youtube.com/channel/)([^/]*)$",
+            "excludePattern": "https://www.youtube.com/channel/*/videos",
+            "patternDesc": "",
+            "redirectUrl": "$1$2/videos",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        },
+        {
+            "description": "youtube videos",
+            "exampleUrl": "https://www.youtube.com/c/DonutMediaTV",
+            "exampleResult": "https://www.youtube.com/c/DonutMediaTV/videos",
+            "error": null,
+            "includePattern": "^(https://www.youtube.com/c/)([^/]*)$",
+            "excludePattern": "https://www.youtube.com/c/*/videos",
+            "patternDesc": "",
+            "redirectUrl": "$1$2/videos",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        },
+        {
+            "description": "youtube videos",
+            "exampleUrl": "https://www.youtube.com/user/TrU3Ta1ent",
+            "exampleResult": "https://www.youtube.com/user/TrU3Ta1ent/videos",
+            "error": null,
+            "includePattern": "^(https://www.youtube.com/user/)([^/]*)$",
+            "excludePattern": "https://www.youtube.com/user/*/videos",
+            "patternDesc": "",
+            "redirectUrl": "$1$2/videos",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        },
+        {
+            "description": "youtube videos",
+            "exampleUrl": "https://www.youtube.com/user/TrU3Ta1ent/featured",
+            "exampleResult": "https://www.youtube.com/user/TrU3Ta1ent/videos",
+            "error": null,
+            "includePattern": "^(https://www.youtube.com/user/)([^/]*)/featured",
+            "excludePattern": "https://www.youtube.com/user/*/videos",
+            "patternDesc": "",
+            "redirectUrl": "$1$2/videos",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        }
+    ]
+}
