@@ -1,0 +1,23 @@
+! 7/25/2020 https://www.youtube.com
+www.youtube.com##.ytp-ce-covering-overlay
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-top-right-quad.ytp-ce-video.ytp-ce-element > .ytp-ce-element-shadow
+||i.ytimg.com/vi_webp/wyzTW18IBTA/maxresdefault.webp$image
+
+! 7/26/2020 https://www.youtube.com
+www.youtube.com##.ytp-ce-covering-shadow-top
+www.youtube.com##.ytp-ce-covering-image
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-top-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+||yt3.ggpht.com/a/AATXAJyFbSI5H4IIphjYeUWNHhuPOGUhKNYlXCf-4xe-=s400-c-k-c0x00ffffff-no-rj$image
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-top-right-quad.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-expanding-image
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-top-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-playlist.ytp-ce-element
+www.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-size-1920.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-size-1920.ytp-ce-top-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-size-1920.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element
+
+! 2021-09-03 https://www.nytimes.com
+!www.nytimes.com###standalone-footer
+
