@@ -21,3 +21,8 @@ www.youtube.com##.ytp-ce-size-1920.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-
 ! 2021-09-03 https://www.nytimes.com
 !www.nytimes.com###standalone-footer
 
+! 2021-11-04 https://www.youtube.com overlays
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.iv-click-target.branding-img
+
